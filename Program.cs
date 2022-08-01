@@ -8,6 +8,8 @@ namespace Logical_Programing
             Console.WriteLine("Logical_Programing");
 
             FibonacciSeries.Fibonacci_Series();
+
+            PerfetNumber.Perfet_Number();
         }
     }
 }
