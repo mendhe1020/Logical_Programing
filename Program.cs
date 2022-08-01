@@ -10,6 +10,8 @@ namespace Logical_Programing
             FibonacciSeries.Fibonacci_Series();
 
             PerfetNumber.Perfet_Number();
+
+            ReverseNumber.Reverse();
         }
     }
 }
