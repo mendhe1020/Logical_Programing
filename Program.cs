@@ -1,2 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+namespace Logical_Programing
+{
+    class LogicalPrograming
+    {
+        public static void Main(string[] args)
+        {
+            Console.WriteLine("Logical_Programing");
+
+            FibonacciSeries.Fibonacci_Series();
+        }
+    }
+}
