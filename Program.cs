@@ -5,13 +5,15 @@ namespace Logical_Programing
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Logical_Programing");
+            //Console.WriteLine("Logical_Programing");
 
-            FibonacciSeries.Fibonacci_Series();
+            //FibonacciSeries.Fibonacci_Series();
 
-            PerfetNumber.Perfet_Number();
+            //PerfetNumber.Perfet_Number();
 
-            ReverseNumber.Reverse();
+            //ReverseNumber.Reverse();
+
+            PrimeNumber.Prime_Number();
         }
     }
 }
